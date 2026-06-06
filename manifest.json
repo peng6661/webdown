@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"WebDown","version":"0.1.0","description":"将当前页面保存为可离线查看的 ZIP 包。","action":{"default_popup":"popup.html","default_title":"WebDown"},"background":{"service_worker":"background.js"},"permissions":["activeTab","scripting","storage","downloads","alarms"],"host_permissions":["http://*/*","https://*/*"]}
